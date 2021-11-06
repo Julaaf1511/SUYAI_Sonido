@@ -71,6 +71,7 @@
 												<Property Name="OverrideColor" Type="bool" Value="True"/>
 											</PropertyList>
 										</Folder>
+										<Folder Name="LA PRUEBA" ID="{50488BC4-1B8A-48B5-81DC-982A2170F310}" ShortID="343901092"/>
 									</ChildrenList>
 								</Folder>
 								<Folder Name="Npcs" ID="{ECEDA377-D3BB-44C9-8C17-041F3073C814}" ShortID="601171204">

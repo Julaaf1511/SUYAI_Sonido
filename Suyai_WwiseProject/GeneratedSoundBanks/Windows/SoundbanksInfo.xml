@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
 	<RootPaths>
-		<ProjectRoot>D:\Universidad\4to ano\Videojuegos\Suyai\Suyai_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>D:\Universidad\4to ano\Videojuegos\Suyai\Suyai_WwiseProject\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>D:\Universidad\4to ano\Videojuegos\Suyai\Suyai_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>C:\Users\danie\Documents\GitHub\SUYAI_Sonido\suyai\SUYAI_Sonido\Suyai_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\danie\Documents\GitHub\SUYAI_Sonido\suyai\SUYAI_Sonido\Suyai_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\danie\Documents\GitHub\SUYAI_Sonido\suyai\SUYAI_Sonido\Suyai_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>D:\Universidad\4to ano\Videojuegos\Suyai\Suyai_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>C:\Users\danie\Documents\GitHub\SUYAI_Sonido\suyai\SUYAI_Sonido\Suyai_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
