@@ -4,6 +4,8 @@
 		<UserProjectSettings Name="" ID="{4EA839CB-6591-4F62-843C-805FFD429ECA}">
 			<PropertyList>
 				<Property Name="AudioFilesImporter\Path" Type="string" Value="Z:\Recursos\SONIDOS\Touch Loops - Infinite Melody (WAV)\Extras\"/>
+				<Property Name="Event Action List\{093494EC-92A5-4CC6-BC7E-1C99C62438B2}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{D7395123-FFCB-4ABE-858D-D0A4472C6573}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="EventView\FilterMode1" Type="int32" Value="2"/>
 				<Property Name="ExternalSourcesInputPath" Type="string">
 					<ValueList>
@@ -20,6 +22,7 @@
 				<Property Name="Game Profiler\Voice Monitor\LastBus" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
 				<Property Name="General\LatestLanguage" Type="int32" Value="684519430"/>
 				<Property Name="General\LatestPlatform" Type="string" Value="Windows"/>
+				<Property Name="General\SourceControlPluginID" Type="string" Value="{C403A906-0C19-4ED5-808E-748707065301}"/>
 				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value=""/>
 				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value=""/>
 				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value=""/>
